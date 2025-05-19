@@ -1,6 +1,6 @@
 ### CRUD with typescript, express and mongoDB
 User API using the dependency injection method, with repositories, services, and others to perform CRUD operations, create, read, update, and delete
-#### technologies:
+#### Technologies:
 #### Typescript, Express, MongoDB etc
 ![alt text](image.png)
 ![alt text](image-1.png)
